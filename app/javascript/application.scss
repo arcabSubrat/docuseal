@@ -50,15 +50,15 @@ button.btn-disabled .enabled {
 }
 
 .base-input {
-  @apply input input-bordered bg-white;
+  @apply input input-bordered bg-white rounded-none;
 }
 
 .base-textarea {
-  @apply textarea textarea-bordered bg-white rounded-3xl;
+  @apply textarea textarea-bordered bg-white rounded-none;
 }
 
 .base-button {
-  @apply btn btn-neutral text-white text-base;
+  @apply btn btn-neutral text-white text-base rounded-none;
 }
 
 .white-button {
