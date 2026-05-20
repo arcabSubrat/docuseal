@@ -100,9 +100,9 @@ en: &en
   submitter_invitation_sms_body_sign: '{account.name} has invited you to sign a document: {submitter.link}'
   verification_code_sms_body: 'Verification code: {code}'
   you_are_invited_to_submit_a_form: 'You are invited to submit a form'
-  you_are_invited_to_sign_a_document: 'You are invited to sign a document from arcab'
+  you_are_invited_to_sign_a_document: "Here's your document – ready to sign, from arcab"
   you_are_invited_to_sign_documents: 'You are invited to sign documents'
-  your_document_copy: 'Your document copy'
+  your_document_copy: "Here's a signed copy of your document, from arcab"
   name_has_been_completed_by_submitters: '"%{name}" has been completed by %{submitters}.'
   template_name_has_been_completed_by_submitters: '{template.name} has been completed by {submission.submitters}'
   submitter_invitation_email_sign_body: |
